@@ -5,7 +5,7 @@ make.fun entry for competition
 
 ## The entry
 
-> It passed every test I wrote — which should've been the first red flag, because I wrote the tests.
+> It passed every test I wrote. That should've been the first red flag — I wrote the tests.
 
 One line, under 200 characters: the excuse "it passed all the tests"
 turned inside out. Passing the tests was never evidence of anything —

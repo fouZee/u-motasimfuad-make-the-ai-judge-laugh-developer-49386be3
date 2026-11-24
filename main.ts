@@ -10,7 +10,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const JOKE =
-  "It passed every test I wrote \u2014 which should've been the first red flag, because I wrote the tests.";
+  "It passed every test I wrote. That should've been the first red flag \u2014 I wrote the tests.";
 
 const outPath = process.env.ENTRY_OUTPUT ?? "/output/entry.txt";
 
